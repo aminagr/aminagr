@@ -1,11 +1,6 @@
 ## Hi there, I'm Amina 👋
 ## About Me
-- I'm an IT Engineer 💻, translator 🌐 and writer ✍️ from Algeria 🇩🇿
-- I'm a Full Stack Web Developer with a passion for creating applications, especially those related to **language learning** and **tourism**.
-## Skills
-- **Programming Languages**: Java, Python, JavaScript, PHP, SQL
-- **Web Development**: HTML, CSS, React, Laravel, J2EE
-- **Version Control**: Git
+- I'm an IT Engineer 💻 translator 🌐 and writer ✍️ from Algeria 🇩🇿
 
 ## My Open Source Projects
 - [My Inventory](https://github.com/aminagr/MyInventory): A Desktop Java Swing application designed for inventory managers to manage products, categories, suppliers, clients, and orders.
