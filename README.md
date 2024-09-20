@@ -10,7 +10,8 @@
 ## My Open Source Projects
 - [My Inventory](https://github.com/aminagr/MyInventory): A Desktop Java Swing application designed for inventory managers to manage products, categories, suppliers, clients, and orders.
 - [Algerian English Dictionary](https://github.com/aminagr/AlgerianEnglishDictionary): An Algerian-English Dictionnary built in Python that features an API for instant translations.
--[Algerian Language Quiz](https://github.com/aminagr/AlgerianLanguageQuiz): A React app that offers an engaging way to learn the Algerian dialect through interactive quizzes.
+- [Algerian Language Quiz](https://github.com/aminagr/AlgerianLanguageQuiz): A React app that offers an engaging way to learn the Algerian dialect through interactive quizzes.
+
 <!--
 **aminagr/aminagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
