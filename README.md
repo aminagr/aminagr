@@ -10,7 +10,7 @@
 
 This project is a mix and improvement of:
 - **[Algerian English Dictionary](https://github.com/aminagr/AlgerianEnglishDictionary)**: An Algerian-English dictionary built in Python that features an API for instant translations.
-- **[Algerian Language Quiz](https://github.com/aminagr/AlgerianLanguageQuiz)**: A React app that offers an engaging way to learn the Algerian dialect through interactive quizzes.
+- **[Algerian Language Quiz](https://github.com/aminagr/AlgerianLanguageQuiz)**: A multilingual React app that offers an engaging way to learn the Algerian dialect through interactive quizzes.
 - **[Algerian Courses](https://github.com/aminagr/AlgerianCourses)**: A multilingual interactive React app with lessons presented as engaging cards, making learning the Algerian dialect easy and effective.
 
    
