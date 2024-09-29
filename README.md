@@ -3,12 +3,16 @@
 - I'm an IT Engineer 💻 and translator 🌐 from Algeria 🇩🇿
 
 ## My Open Source Projects
-- [My Inventory](https://github.com/aminagr/MyInventory): A Desktop Java Swing application designed for inventory managers to manage products, categories, suppliers, clients, and orders.
-- [Learn Algerian Dialect](https://github.com/aminagr/AlgerianDialect) : An innovative multilingual React app for learning the Algerian dialect, featuring interactive vocabulary lessons, quizzes, and a multilingual dictionary. Supports Arabic, French, English, Spanish, Italian, and Russian.
-- This project is a mix and improvement of:
-- [Algerian English Dictionary](https://github.com/aminagr/AlgerianEnglishDictionary): An Algerian-English dictionary built in Python that features an API for instant translations.
-- [Algerian Language Quiz](https://github.com/aminagr/AlgerianLanguageQuiz): A React app that offers an engaging way to learn the Algerian dialect through interactive quizzes.
-- [Algerian Courses](https://github.com/aminagr/AlgerianCourses): A multilingual interactive React app with lessons presented as engaging cards, making learning the Algerian dialect easy and effective.
+
+- **[My Inventory](https://github.com/aminagr/MyInventory)**: A Desktop Java Swing application designed for inventory managers to manage products, categories, suppliers, clients, and orders.
+
+- **[Learn Algerian Dialect](https://github.com/aminagr/AlgerianDialect)**: An innovative multilingual React app for learning the Algerian dialect, featuring interactive vocabulary lessons, quizzes, and a multilingual dictionary. Supports Arabic, French, English, Spanish, Italian, and Russian.
+
+This project is a mix and improvement of:
+- **[Algerian English Dictionary](https://github.com/aminagr/AlgerianEnglishDictionary)**: An Algerian-English dictionary built in Python that features an API for instant translations.
+- **[Algerian Language Quiz](https://github.com/aminagr/AlgerianLanguageQuiz)**: A React app that offers an engaging way to learn the Algerian dialect through interactive quizzes.
+- **[Algerian Courses](https://github.com/aminagr/AlgerianCourses)**: A multilingual interactive React app with lessons presented as engaging cards, making learning the Algerian dialect easy and effective.
+
    
 <!--
 **aminagr/aminagr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
