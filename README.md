@@ -1,6 +1,6 @@
 ## Hi there, I'm Amina 👋
 ## About Me
-- I'm an IT Engineer 💻 and translator 🌐 from Algeria 🇩🇿
+- I'm an IT Engineer, Web Developper 💻 and translator 🌐 from Algeria 🇩🇿
 
 ## My Open Source Projects
 
