@@ -4,6 +4,8 @@
 
 ## My Open Source Projects
 
+- **[NextJS Portfolio](https://github.com/aminagr/NextPortfolio)** : A fully responsive, SEO-optimized, multilingual, and ready-to-use portfolio template built with Next.js, React, Tailwind CSS, and CSS modules. This template includes all the essentials for a beautiful and functional portfolio, ready for easy customization.
+
 - **[My Inventory](https://github.com/aminagr/MyInventory)**: A Desktop Java Swing application designed for inventory managers to manage products, categories, suppliers, clients, and orders.
 
 - **[Learn Algerian Dialect](https://github.com/aminagr/AlgerianDialect)**: An innovative multilingual React app for learning the Algerian dialect, featuring interactive vocabulary lessons, quizzes, and a multilingual dictionary. Supports Arabic, French, English, Spanish, Italian, and Russian.
