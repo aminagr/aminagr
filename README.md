@@ -1,7 +1,14 @@
 ## Hi there, I'm Amina 👋
-## About Me
-- I'm an IT Engineer, Web Developper 💻 and translator 🌐 from Algeria 🇩🇿
 
+### About Me
+- I'm an IT Engineer, Web Developer 💻, and Translator 🌐 from Algeria 🇩🇿.
+- Passionate about technology and languages, I enjoy creating innovative web solutions and contributing to open-source projects.
+- Explore my open-source projects below, and feel free to reach out via my website or email for collaborations or inquiries.
+
+🌐 [Visit my website](https://aminagrine.vercel.app/)  
+📧 Email me: aminagrine.dev@gmail.com
+
+<!--
 ## My Open Source Projects
 
 - **[NextJS Portfolio](https://github.com/aminagr/NextPortfolio)** : A fully responsive, SEO-optimized, multilingual, and ready-to-use portfolio template built with Next.js, React, Tailwind CSS, and CSS modules. This template includes all the essentials for a beautiful and functional portfolio, ready for easy customization.
@@ -11,7 +18,7 @@
 - **[Algerian Language Quiz](https://github.com/aminagr/AlgerianLanguageQuiz)**: A multilingual React app that offers an engaging way to learn the Algerian dialect through interactive quizzes.
 
 
-<!--
+
 - **[Learn Algerian Dialect](https://github.com/aminagr/AlgerianDialect)**: An innovative multilingual React app for learning the Algerian dialect, featuring interactive vocabulary lessons, quizzes, and a multilingual dictionary. Supports Arabic, French, English, Spanish, Italian, and Russian.
 
 This project is a mix and improvement of my previous projects:
