@@ -1,7 +1,7 @@
 ## Hi there, I'm Amina 👋
 
 - I'm an IT Engineer, Web Developer 💻, and Translator 🌐 from Algeria 🇩🇿.
-- I'm passionate about technology and I enjoy creating innovative web solutions and contributing to open-source projects.
+- I'm passionate about technology and I enjoy creating innovative web solutions.
 - Explore my open-source projects below, and feel free to reach out via my website or email for collaborations or inquiries.
 
 🌐 [Visit my website](https://aminagrine.vercel.app/)  
