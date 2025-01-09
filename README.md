@@ -4,7 +4,7 @@
 - I'm passionate about technology and I enjoy creating innovative web solutions.
 - Explore my open-source projects below, and feel free to reach out via my website or email for collaborations or inquiries.
 
-🌐 [Visit my website](https://aminagrine.vercel.app/)  
+🌐 [Visit my website](https://www.aminagrine.com/)  
 📧 Email me: aminagrine.dev@gmail.com
 
 <!--
